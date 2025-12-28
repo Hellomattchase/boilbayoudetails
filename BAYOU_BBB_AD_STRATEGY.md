@@ -296,3 +296,54 @@ Build a repeatable, data-driven, culture-aligned marketing engine that:
 - Grows loyal returning customers
 
 ---
+
+Boil Baby Boil & Bayou WeHo Digital Marketing Strategy
+OVERALL STRATEGY HIGHLIGHTS:
+- Granular geo-targeting of walkable zones (WeHo bar district) using Google Maps data and real-time
+behavior trends
+- Platform-specific creative tailoring (short-form video, reviews, merch)
+- Dual-focus funnel:
+- Bayou: in-person bar traffic + TikTok Shop clothing
+- Boil Baby Boil: delivery app orders via visual cravings
+REGIONAL TARGETS:
+West Hollywood, Hollywood Hills, Beverly Hills, Westwood, Brentwood, Century City
+PLATFORM-BY-PLATFORM STRATEGY
+TikTok
+Boil Baby Boil
+- Goal: Trigger cravings and convert into Uber Eats/DoorDash orders
+- Creative: POV unboxing, ASMR, "What $35 gets you", late-night cravings
+- Geo-target: Zip-code level
+- CTA: "Order now"
+- Optimization: Spark Ads with local influencers
+Bayou WeHo
+- Goal: Promote merch + funnel traffic before 8PM
+- TikTok Shop: Ensure reviews sync from Shopify
+- Creative: "Gay dive bar starter pack", fit checks, DJ audio
+- Location: LGBTQ+ cities (NYC, LA, Miami, ATL, Sydney, London, Toronto)
+Meta (Instagram & Facebook Reels)
+Boil Baby Boil
+- Goal: Visual impulse = food delivery
+- Creative: 7-sec reels, steam, butter pours, boil bag dump
+- Target: IG users in 3-6 mile radius
+- Timing: 3-9PM with 6PM peak
+Bayou WeHo
+- Goal: Foot traffic pre-8PM
+- Creative: "2-for-1 until 8PM", "Abbey's winding down?"
+- Integration: Use Google Busy Times to detect when competing bars quiet down
+Google (YouTube Shorts + Maps)
+Bayou WeHo
+- Strategy: "This is what WeHo's best dive bar looks like", "8PM is the new midnight"
+- Local ads: Trigger when nearby bars decline using Performance Max
+Boil Baby Boil
+- Strategy: Pre-dinner Shorts, "Too lazy to cook?"
+- Daypart: 3-7PM push
+- Google Display ads: Target food apps & categories
+DATA + AD OPTIMIZATION TOOLS
+- Google Trends + Busy Times API or tools like Placer.ai
+- Meta Advantage+ Audience
+- Attribution tools: Triple Whale, Northbeam
+NEXT STEPS:
+1. Sync TikTok Shop + reviews (Bilal)
+2. Extract Busy Times data for 3-5 bars
+3. Design ad creative variants
+4. Budget: TikTok ($50/day), Meta ($100-150/day), Google ($30-50/day)
